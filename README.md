@@ -12,7 +12,7 @@
   <h2>Pages</h2>
   <ul>
     <li>Home: The home page serves as the landing page for the website, providing an introduction to the business consultancy services offered.</li>
-    <li>About Us: The About Us page provides information about the consultancy firm, including its history, mission, and team.</li>
+    <li>About Us: The About Us page provides information about the consultancy firm, team.</li>
     <li>Contact Us: The Contact Us page allows visitors to get in touch with the consultancy firm by providing contact details or a contact form.</li>
     <li>Services: The Services page outlines the various services offered by the consultancy firm.</li>
   </ul>
@@ -36,6 +36,6 @@
   <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more information.</p>
 
   <h2>Acknowledgments</h2>
-  <p>If you have any questions or suggestions, feel free to connect with me on <a href="https://www.linkedin.com/in/abhishek-patil-2181a6230/">LinkedIn</a>.</p>
+  <p>If you have any questions or suggestions, feel free to connect with me and ask on <a href="https://www.linkedin.com/in/abhishek-patil-2181a6230/">LinkedIn</a>.</p>
 </body>
 </html>
